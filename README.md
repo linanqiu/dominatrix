@@ -42,8 +42,6 @@ or the likes thereof.
 
 ## Quick Start for Pandoc
 
-## Quick Start
-
 Throw `dominatrix_pandoc.latex` into the templates folder of pandoc. It should be located at 
 
 `/usr/local/share/pandoc-1.11.1/data/templates`
